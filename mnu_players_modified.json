@@ -38,7 +38,6 @@
     },
     {
       "plname": "Chris Smalling",
-	    
       "possition": "Defender",
 	  "image": "http://www.solofutbol.cl/futbol%20internacional/Ligas%20internacionales/Inglaterra/Liga%20Premier%202017-2018/Equipos%20participantes/inglaterra/manchester%20united%202017/smalling.jpg"
     },
@@ -60,7 +59,7 @@
     {
       "plname": "Luke Shaw",
       "possition": "Defender",
-	  "image": "http://www.solofutbol.cl/futbol%20internacional/Ligas%20internacionales/Inglaterra/Liga%20Premier%202017-2018/Equipos%20participantes/inglaterra/manchester%20united%202017/shaw.jpg"
+	  "image": "https://premierleague-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p106760.png"
     },
     {
       "plname": "Tim Fosu-Mensah",
